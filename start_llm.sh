@@ -1,0 +1,1 @@
+lmdeploy serve api_server Qwen/Qwen2-7B-Instruct --server-port 23333 
